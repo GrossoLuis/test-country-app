@@ -21,7 +21,7 @@ npm install
 1. Create a `.env` file in the `country-info-backend` directory with the following content:
 
 
-```plaintext
+```
 PORT=3001
 DATE_NAGER_API=https://date.nager.at/api/v3
 COUNTRIES_NOW_API=https://countriesnow.space/api/v0.1
